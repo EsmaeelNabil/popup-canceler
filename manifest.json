@@ -1,0 +1,13 @@
+{
+    "name": "shahid4u-poper",
+    "description": "yeah just the title.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+      },
+    "permissions": ["storage","tabs"],
+    "action": {
+        "default_popup": "popup.html"
+      }
+  }
