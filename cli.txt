@@ -1,0 +1,3 @@
+https://github.com/DanDev95/Chrome-Extension-with-TailwindCSS-Example
+
+npm run watch
